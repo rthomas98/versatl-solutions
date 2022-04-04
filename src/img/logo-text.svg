@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131.085" height="60.655" viewBox="0 0 131.085 60.655">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="131.085" height="60.655" fill="#0a0a0a"/>
+    </clipPath>
+  </defs>
+  <g id="Group_17" data-name="Group 17" transform="translate(8 0)">
+    <g id="Group_7" data-name="Group 7" transform="translate(-8 0)" clip-path="url(#clip-path)">
+      <text id="VersaTL" transform="translate(1.037 29.66)" fill="#0a0a0a" font-size="35" font-family="FiraMono-Bold, Fira Mono" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.106em">VersaT</tspan><tspan y="0">L</tspan></text>
+      <text id="SOLUTIONS" transform="translate(0 49.041)" fill="#0a0a0a" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" letter-spacing="0.2em">S</tspan><tspan y="0" letter-spacing="0.199em">O</tspan><tspan y="0" letter-spacing="0.2em">LUTI</tspan><tspan y="0" letter-spacing="0.199em">O</tspan><tspan y="0" letter-spacing="0.2em">N</tspan><tspan y="0">S</tspan></text>
+    </g>
+  </g>
+</svg>

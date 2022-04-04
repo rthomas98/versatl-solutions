@@ -15604,12 +15604,29 @@ figure.woocommerce-product-gallery__wrapper {
   color: white;
 }
 
+.dropdown-item:hover {
+  background-color: #033D73;
+  color: white;
+}
+
 .top-bar {
   background-color: #033D73;
 }
 .top-bar p {
   color: white;
   margin: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #0A0A0A;
+  font-family: "Poppins", sans-serif;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #11B8EC;
+}
+
+.nav-link.active {
+  color: #11B8EC !important;
 }
 
 .has-blue-color,
