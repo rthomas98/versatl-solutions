@@ -2,9 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <p>
-                Important information about our response to the coronavirus: Learn more.
-                </p>
+                <?php the_field( 'tob_bar_content', 'option' ); ?>
             </div>
         </div>
     </div>
