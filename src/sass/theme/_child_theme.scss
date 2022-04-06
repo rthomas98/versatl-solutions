@@ -34,3 +34,22 @@
 .nav-link.active {
     color: $secondary !important;
 }
+
+.footer {
+    background: linear-gradient(180deg, white 30%, $primary 30%);
+
+    .cta {
+        background-color: $secondary;
+        border-radius: 10px;
+    }
+
+    h5 span {
+        font-weight: 100;
+        display: block;
+    }
+
+    .nav-link {
+        color: white;
+        padding: .5rem 0;
+    }
+}

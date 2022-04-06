@@ -101,5 +101,3 @@
     </div>
   </div>
 </nav>
-
-<div style="height: 1000px;"></div>

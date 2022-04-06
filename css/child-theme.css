@@ -15629,6 +15629,22 @@ figure.woocommerce-product-gallery__wrapper {
   color: #11B8EC !important;
 }
 
+.footer {
+  background: linear-gradient(180deg, white 30%, #033D73 30%);
+}
+.footer .cta {
+  background-color: #11B8EC;
+  border-radius: 10px;
+}
+.footer h5 span, .footer .h5 span {
+  font-weight: 100;
+  display: block;
+}
+.footer .nav-link {
+  color: white;
+  padding: 0.5rem 0;
+}
+
 .has-blue-color,
 .has-blue-color:visited {
   color: #0d6efd;
