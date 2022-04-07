@@ -20,7 +20,7 @@ while ( have_posts() ) :
 	get_template_part( 'loop-templates/content', 'home' );
 endwhile;
 
-get_template_part( 'global-templates/footer');
+get_template_part( 'global-templates/main-footer');
 
 
 get_footer();

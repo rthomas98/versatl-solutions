@@ -51,5 +51,27 @@
     .nav-link {
         color: white;
         padding: .5rem 0;
+
+        &:hover {
+            color: $secondary;
+        }
     }
+
+    p {
+        color: white;
+    }
+}
+
+
+
+/*
+* Helpers 
+*/
+
+.call-icon {
+    background-color: $primary;
+    padding: 10px;
+    border-radius: 50px;
+    width: 45px;
+    height: 45px;
 }

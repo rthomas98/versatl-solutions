@@ -13,9 +13,13 @@ defined( 'ABSPATH' ) || exit;
 
 get_header();
 
+get_template_part( 'global-templates/main-menu');
+
 while ( have_posts() ) :
 	the_post();
 	get_template_part( 'loop-templates/content', 'faqs' );
 endwhile;
+
+get_template_part( 'global-templates/main-footer');
 
 get_footer();

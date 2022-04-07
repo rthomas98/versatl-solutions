@@ -15644,6 +15644,23 @@ figure.woocommerce-product-gallery__wrapper {
   color: white;
   padding: 0.5rem 0;
 }
+.footer .nav-link:hover {
+  color: #11B8EC;
+}
+.footer p {
+  color: white;
+}
+
+/*
+* Helpers 
+*/
+.call-icon {
+  background-color: #033D73;
+  padding: 10px;
+  border-radius: 50px;
+  width: 45px;
+  height: 45px;
+}
 
 .has-blue-color,
 .has-blue-color:visited {
