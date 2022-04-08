@@ -15651,6 +15651,10 @@ figure.woocommerce-product-gallery__wrapper {
   color: white;
 }
 
+.home-banner {
+  height: 70vh;
+}
+
 /*
 * Helpers 
 */
@@ -15660,6 +15664,10 @@ figure.woocommerce-product-gallery__wrapper {
   border-radius: 50px;
   width: 45px;
   height: 45px;
+}
+
+.bg-light-blue {
+  background-color: #E6F8FD;
 }
 
 .has-blue-color,
